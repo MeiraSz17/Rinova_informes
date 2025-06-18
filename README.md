@@ -57,7 +57,7 @@ Caso precise ativar macros no Excel:
 
 **Matheus Meira**  
 🔗 GitHub: [@MeiraSz17](https://github.com/MeiraSz17)  
-📁 Repositório: [github.com/MeiraSz17/Rinova_](https://github.com/MeiraSz17/Rinova_)
+📁 Repositório: 🔗 github.com/MeiraSz17/Rinova_informes
 
 ---
 
