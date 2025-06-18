@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠 **Funcionalidades**
+## 🛠 Funcionalidades
 
 - **Cadastro do Titular**: Registro de informações pessoais e bancárias.
 - **Registro de Informes Bancários**: Controle dos saldos distribuídos entre instituições financeiras.
@@ -14,7 +14,7 @@
 
 ---
 
-## 📂 **Estrutura da Planilha**
+## 📂 Estrutura da Planilha
 
 A planilha possui as seguintes abas principais:
 
@@ -28,37 +28,36 @@ A planilha possui as seguintes abas principais:
 
 ---
 
-## 🚀 **Como Usar**
+## 🚀 Como Usar
 
-1️⃣ **Preencha suas informações pessoais** na aba `Titular`.  
-2️⃣ **Insira os saldos bancários atuais** na aba `Informes`.  
-3️⃣ **Registre suas receitas mensais** na aba `Notas`.  
-4️⃣ **Acesse a aba `Relatório` e clique no botão "Gerar PDF"** para criar seu relatório automático.  
-5️⃣ O arquivo será salvo em `C:\MeusRelatorios` e abrirá automaticamente.
+1. **Preencha suas informações pessoais** na aba `Titular`.  
+2. **Insira os saldos bancários atuais** na aba `Informes`.  
+3. **Registre suas receitas mensais** na aba `Notas`.  
+4. **Acesse a aba `Relatório` e clique no botão "Gerar PDF"** para criar seu relatório automático.  
+5. O arquivo será salvo em `C:\MeusRelatorios` e abrirá automaticamente.
 
 ---
 
-## 🔧 **Automação e Macros**
+## 🔧 Automação e Macros
 
 Este projeto conta com **macros em VBA** que possibilitam:
-- **Exportação automática do relatório em PDF.**
-- **Abertura do arquivo PDF após a geração.**
-- **Salvamento inteligente na pasta `C:\MeusRelatorios`.**
-- **Validação automática para garantir que os dados sejam exibidos corretamente.**
+- Exportação automática do relatório em PDF.
+- Abertura do arquivo PDF após a geração.
+- Salvamento inteligente na pasta `C:\MeusRelatorios`.
+- Validação automática para garantir que os dados sejam exibidos corretamente.
 
-Caso precise ativar macros no Excel:
-1. Vá em **Opções → Central de Confiança → Configurações de Macros**.
-2. Selecione **"Ativar todas as macros"** (recomendado apenas para arquivos confiáveis).
-3. Salve e reinicie o Excel.
+> Para ativar macros no Excel:
+> - Acesse **Opções → Central de Confiança → Configurações de Macros**  
+> - Selecione **"Ativar todas as macros"** (recomendado apenas para arquivos confiáveis)
 
 ---
 
-## 👨‍💻 **Autor**
+## 👨‍💻 Autor
 
 **Matheus Meira**  
 🔗 GitHub: [@MeiraSz17](https://github.com/MeiraSz17)  
-📁 Repositório: 🔗 github.com/MeiraSz17/Rinova_informes 
+📁 Repositório: [github.com/MeiraSz17/Rinova_informes](https://github.com/MeiraSz17/Rinova_informes)
 
 ---
 
-**📌 Transformando organização financeira em automação inteligente!** ✨
+**📌 Transformando organização financeira em automação inteligente!**
